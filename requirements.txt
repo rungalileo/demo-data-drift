@@ -1,0 +1,5 @@
+streamlit
+hdbscan
+sentence-transformers==3.4.1
+umap-learn[parametric_umap]
+seaborn
