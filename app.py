@@ -46,9 +46,9 @@ if st.button("Submit 🚀", key='submit') and user_queries:
     st.text("Processing reference dataset...")
 
     drift = DriftEstimator(
-        dim=2,
+        dim=20,
         min_cluster_size=min(len(user_queries), 10),
-        min_samples=3,
+        min_samples=5,
     )
 
     st.text("Fitting drift model....")
@@ -108,25 +108,27 @@ if st.button("Assign Query"):
         # print(probs)
         #
 
-        # drifting = assigned_cluster == -1 #or assigned_score < 0.3
+        # drifting = assigned_cluster == -1 or assigned_score < 0.1
 
         drifting = False
         if assigned_cluster == -1:
             drifting = True
         else:
+            drifting=False
+
         # if assigned_score < 0.5:
-            cluster_queries = st.session_state.drift.clusters[assigned_cluster]
-            labels, scores, probs = st.session_state.drift.predict(cluster_queries)
-            print("cluster probs")
-            print(probs)
-            min_prob = min(probs)
-            mean_prob = np.mean(probs)
-            if assigned_score < min_prob:
-                print("DRIFT!")
-                drifting = True
-            else:
-                print("NO DRIFT")
-                drifting=False
+            # cluster_queries = st.session_state.drift.clusters[assigned_cluster]
+            # labels, scores, probs = st.session_state.drift.predict(cluster_queries)
+            # print("cluster probs")
+            # print(probs)
+            # min_prob = min(probs)
+            # mean_prob = np.mean(probs)
+            # if assigned_score < min_prob:
+            #     print("DRIFT!")
+            #     drifting = True
+            # else:
+            #     print("NO DRIFT")
+            #     drifting=False
             # prob.shape
 
         # Show Cluster Assignment
@@ -139,6 +141,7 @@ if st.button("Assign Query"):
             qs = "\n\n".join(st.session_state.drift.clusters[assigned_cluster])
 
             # st.success(f"'{new_query}' assigned to **Cluster {assigned_cluster}** Probability of Drift = {1-assigned_score}.\n\n**Similar Queries**:\n\n{qs}")
+            st.success(f"Probability of Drift = {1-assigned_score}")
             st.success(f"'{new_query}' is NOT drifting.\n\n**Similar Queries**:\n\n{qs}")
         
             # st.success(f"\n\nSimilar Queries:\n\n{qs}")
