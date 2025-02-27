@@ -102,7 +102,8 @@ if st.button("Assign Query"):
         labels, scores, probs = st.session_state.drift.predict([new_query])
         assigned_cluster = labels[0]
         assigned_score = scores[0]
-        p_drift = 1 - probs[0]        
+        # p_drift = 1 - probs[0]      
+        p_drift = 1 - assigned_score
 
         print(labels, scores)
         # print(probs)
@@ -141,7 +142,7 @@ if st.button("Assign Query"):
             qs = "\n\n".join(st.session_state.drift.clusters[assigned_cluster])
 
             # st.success(f"'{new_query}' assigned to **Cluster {assigned_cluster}** Probability of Drift = {1-assigned_score}.\n\n**Similar Queries**:\n\n{qs}")
-            st.success(f"Probability of Drift = {1-assigned_score}")
+            st.success(f"Probability of Drift = {p_drift}")
             st.success(f"'{new_query}' is NOT drifting.\n\n**Similar Queries**:\n\n{qs}")
         
             # st.success(f"\n\nSimilar Queries:\n\n{qs}")
