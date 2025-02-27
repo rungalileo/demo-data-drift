@@ -6,6 +6,9 @@ import umap
 import seaborn as sns
 import numpy as np
 
+
+np.random.seed(42)
+
 class DriftEstimator:
   def __init__(
     self,
