@@ -142,7 +142,7 @@ if st.button("Assign Query"):
             qs = "\n\n".join(st.session_state.drift.clusters[assigned_cluster])
 
             # st.success(f"'{new_query}' assigned to **Cluster {assigned_cluster}** Probability of Drift = {1-assigned_score}.\n\n**Similar Queries**:\n\n{qs}")
-            st.success(f"Probability of Drift = {p_drift}")
+            # st.success(f"Probability of Drift = {p_drift}")
             st.success(f"'{new_query}' is NOT drifting.\n\n**Similar Queries**:\n\n{qs}")
         
             # st.success(f"\n\nSimilar Queries:\n\n{qs}")
