@@ -3,7 +3,7 @@ import numpy as np
 from datasets import load_dataset
 
 from drift_hdbscan import DriftEstimator
-from data import load_verizon_queries, load_airbnb_queries
+from data import load_verizon_queries, load_airbnb_queries, load_ood_queries, load_python_code_queries, load_mental_health_queries
 
 
 from embeddings import Embedder
@@ -23,24 +23,17 @@ def populate_airbnb_data():
     st.session_state.seed_ds = "\n".join(queries)
 
 def populate_python_data():
-    ds = load_dataset("iamtarun/python_code_instructions_18k_alpaca")
-    queries = ds['train']['instruction']
-    queries = np.random.choice(queries, DEMO_MAX_DS_SIZE, replace=False)
-
+    queries = load_python_code_queries()
     st.session_state.seed_ds = "\n".join(queries)
 
-def populate_medical_data():
-    ds = load_dataset("qiaojin/PubMedQA", "pqa_unlabeled")
-    queries = ds['train']['question']
-    queries = np.random.choice(queries, DEMO_MAX_DS_SIZE, replace=False)
-
+def populate_mental_health_data():
+    queries = load_mental_health_queries()
     st.session_state.seed_ds = "\n".join(queries)
 
 #
 # Load OOD DATA SOURCE
 #
-ds = load_dataset("clinc/clinc_oos", "small")
-OOD_QUERIES = ds['validation']['text']
+OOD_QUERIES = load_ood_queries()
 
 
 # User Input Queries
@@ -51,9 +44,9 @@ with col1:
 with col2:
     st.button("Use Airbnb Dataset", on_click=populate_airbnb_data)
 with col3:
-    st.button("Use Python Code Gen Dataset", on_click=populate_python_data)
+    st.button("Python Code Gen Dataset", on_click=populate_python_data)
 with col4:
-    st.button("Use Medical QA Dataset", on_click=populate_medical_data)
+    st.button("Mental Health QA Dataset", on_click=populate_mental_health_data)
 
 user_queries = st.text_area("Enter queries (one per line)", height=150, key="seed_ds").split("\n")
 user_queries = [q.strip() for q in user_queries if q.strip()]

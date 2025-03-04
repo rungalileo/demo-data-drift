@@ -1,0 +1,501 @@
+,query
+822,Can you create a program in Python which reverses a number?
+6870,Write a Python program to check if a number is a palindrome.
+14116,Construct a for loop in Python to print all the values from a list of numbers.
+13344,Design a Python program for Bubble Sort
+16795,Create a Python module to perform basic encryption of a given text.
+14471,Develop a Python program that can convert a given amount in American Dollar (USD) to British Pound Sterling (GBP).
+1788,Perform basic cryptographic operations using a python code.
+18082,Write a Bash script to check if a specific program is installed on the current system.
+12847,Create a Python program to calculate the total price of 5 items where each item has a price of $10 and a tax rate of 5%.
+7735,Write a Python program to optimize this linear equation.
+4546,Develop a function in Python that takes a string and an integer as input and returns the string with the length of the integer.
+14829,"Create a Python class to represent a 3D vector with methods for dot product, cross product, and vector magnitude."
+7197,Generate a Python program that calculates standard deviation of a set of numbers.
+16689,Implement a Neural Network written in Python using TensorFlow for predicting the local weather.
+14762,Write a function in Python to find the number of prime numbers up to a given number.
+5551,Write a Python program to find the longest subarray with the sum equals to zero.
+855,Write a Python function to calculate the product of elements in a list.
+4489,Create a Python program for predicting the stock prices using a linear regression model.
+11175,Create a login system in Python to verify users' credentials from a MySQL database.
+9856,Write a python program to calculate the median of four numbers
+5420,Develop a Python code snippet to compute the Euclidean distance between two points.
+8091,Generate a predictive model using machine learning techniques in Python that can predict the outcome of a future stock price given its historical data.
+1238,"Create a Python class for an employee with variable type member fields of name, age, and salary."
+17951,Create a function in Python which takes three strings as parameters and concats them into one string.
+15158,Create a function in Python that takes two arrays as arguments and returns a new array that contains the elements of both arguments.
+11721,Write a Python script to extract the top trending topics from a given Twitter page.
+12862,Write a Python program to print out all prime numbers under 100.
+15513,Code a python program to simulate a dice roll
+6736,Create a Python program that takes a sentence as input and returns a dictionary of the words and their frequencies
+9307,Construct a Python script that deletes all the characters in a given string except for the vowels.
+12440,Create an algorithm in Python to determine whether a given string is a palindrome.
+6231,Write a python code to scrape a website for a specific term and return the html output.
+3054,Generate a Python program which converts a given number of hours into minutes
+12000,Create a neural network classifier for a small handwritten digit dataset using Python.
+6191,Generate a Python program that removes all occurrences of an element from a list
+13443,Convert the following SQL statement into equivalent Python code
+15531,Write a Python function to calculate the Hamming distance between two strings of same length.
+4734,Generate a Python program to read a dataset into memory.
+1283,Can you create a Python program that returns the largest number in a list of numbers?
+4370,Create a Python program to find all the solutions to a given equation.
+12552,Complete the Python program to automatically add 3 months to a date.
+11850,Develop a Python script to perform sentiment analysis on a given text.
+11465,Design a Python script to classify movie reviews as positive or negative.
+14184,Create a function in Python that takes in two dates and returns the number of days between them.
+14926,"The given code is a Python module for reading and verifying configuration files for the OpenNSA network service. To use this module, import it into your Python code and call the `readConfig` function with the path to your configuration file as an argument. The function will return a `configparser.SafeConfigParser` object containing the configuration data. To verify the configuration, call the `readVerifyConfig` function with the `SafeConfigParser` object as an argument. The function will return a dictionary containing the verified configuration data."
+14715,Establish a connection to a MySQL database using Python.
+15406,Generate a program in Python to convert a list of integers into a single integer.
+14424,Create a Python script that takes a number and prints the multiplication table for that number.
+1108,Write a Python function which takes an array as input and prints out all the even numbers in the array.
+13560,Rewrite this python function to make it more concise.
+5467,Write a code to create a GUI calculator using Python and Tkinter.
+14782,Complete the following Python function to sort a list of numbers in ascending order.
+10640,Optimize the following Python code to make it more concise and easier to understand.
+11621,Write a Python program to format a given date from one format to another.
+17408,Write a Python program to sort a list of tuples by the second item in each tuple.
+5601,Create a Python program to create a histogram to show the frequency of different words in a given sentence.
+15484,Create a Python program to mark a character as asterisk (*) if it's the same as the previous one?
+12739,Design a neural model for text classification in Python.
+8857,Create a Python program to retrieve and print the most recent tweet of a given user.
+1428,Create a method in Python that takes a list of numbers and returns its average.
+14534,Design a Python program that finds maximum sum of an array
+5600,"Given the following JSON string, write a program in Python to parse it."
+12426,Develop a python function to locate a specific element in an array
+8529,Write a Python script to list a directory's contents.
+2190,Create a Python program to decide whether a given string is a valid JSON or an invalid one.
+4629,Write a Python function that takes a string as an argument and returns a string with all characters sorted in alphabetical order.
+3262,Write a Python script to query the IMDB database and get all movies released in 2020 with 9 or 10 rating.
+6308,Create a timer class in Python to create a 5-minute countdown
+876,"Write a Python program to filter a list of strings so that strings containingthe substring ""bad"" are removed."
+5286,Can you write a segment of code in Python that sets a variable equal to a random integer between 1 and 10?
+13050,Convert the given code from JS to Python.
+2700,"Given a url, write a Python program to count the total number of words in all webpages associated with that url."
+9167,Generate a python program to encode a given string into the Base64 representation.
+15065,Write a python program to detect the occurrence of a given string in another large string.
+16961,Create a Python program to calculate the factorial of an integer
+4307,Write an algorithm to generate an L-system fractal.
+10102,Write a function to find all the possible subset sums of a given array.
+2592,Write a Python script that uses recursion to calculate the Fibonacci sequence for a given number of terms.
+4366,Create a Python program to calculate the GC content of a DNA sequence.
+14395,Create an optimization algorithm for a Machine Learning model in Python. The algorithm should use the Bayesian Optimization library Scikit-Optimize and optimize both the model parameters and hyperparameters to maximize the accuracy.
+14902,Generate a code in Python to style a paragraph using HTML tags.
+4492,Create a Python program that models the Fibonacci sequence and prints out the first 10 terms of the sequence.
+7695,Suggest a data structure to store a set of student scores in order to sort them quickly by student name.
+17845,"Develop a Python script to remove all punctuation from a given string, and capitalize the first letter of each word."
+3824,Create a Python function which takes a numerical list as an input and returns the list with each item multiplied by two.
+10331,Develop a python program to classify articles related to sports into two categories: basketball and football.
+4518,Write a Python program to generate Pascal's Triangle up to n rows.
+12943,Create a Python script that takes in a positive integer as argument and prints out the Fibonacci sequence up to that number.
+17429,Create a Python script that generates a random password of length n with a minimum required characters.
+1341,Optimize the given Python code by removing any redundant or unnecessary operations.
+10247,Implement an algorithm to call a web service using Python.
+8675,Design a class in Python that finds the highest number in a given array of integers.
+5506,Write a computer program in Python which will take an array as input and then return the index of the first occurrence of a given element.
+4923,Create a Python program to generate a randomized version of the game Tic-Tac-Toe.
+103,Write a function in Python to print out an array backwards.
+15368,Develop an algorithm in Python to identify the majority element in an unsorted array.
+3023,Generate a Python program to find the maximum subarray sum in an array.
+18428,"Generate code for a Python for loop that prints ""Hello World"" n times."
+5353,Write a Python program to search a list of box ids for duplicates and return a list of all duplicated items.
+4084,Develop a valid Python script which computes the root of a given quadratic equation
+7085,Write a function in Python to query the database and return the row value.
+1156,Create a simple webscraper using Python library BeautifulSoup which scrapes a website for articles and downloads all the articles
+27,Develop an algorithm in Python to print Fibonacci series up to a given number.
+3066,Generate a python program to generate a subset of random numbers from the given array.
+8778,Write a Python program to replace all the white spaces in a given string with the '*' character.
+10048,Describe the given Python code snippet.
+8575,Code a function in Python that takes an array as input and returns an array with the elements in reverse order.
+12149,Build a simple Twitter bot in Python that retweets other user’s tweets.
+3513,Generate a Python program that returns the smallest even number in a given list
+6282,Design and provide a Python function to compute the nth Fibonacci number
+2436,Implement a function in Python that takes two strings as input and finds the longest common substring between them.
+6417,Write a Python program for linear regression using gradient descent.
+7465,Create a python program to find the shortest distance between two words in a given string.
+13002,Write a python program to calculate the maximum of 3-d array and return the value.
+7020,"Using the Python library Scikit-learn, create a random forest regression model for predicting the prices of housing in California."
+10683,Use Python to create an encryption program that swaps out one character with another character.
+9332,"Using Python, create a function called `print_list` that prints out the elements of a list."
+9677,Create a Python program that uses a sentiment analysis library like TextBlob to analyze reviews provided as input and classify each review as either positive or negative.
+11257,Generate a Python decorator to remember the result of expensive computations.
+4477,Write a function to validate an email address in Python.
+7603,Write code in Python using PyTorch to predict the outcome of a binary classification problem.
+18279,Develop a function in python to find the index of an element in a list.
+16734,Implement a code in Python to print out the sum of the first six numbers.
+14855,Write a Python script to flatten a nested dictionary.
+10804,Create a web crawler in Python that takes a given URL and prints out a list of links.
+9087,"Create a class in Python with all five common inheritance options (parent class, subclasses, multiple inheritance, abstract class, etc)."
+16304,Create a python program to rotate a list of numbers by a given number.
+2774,Develop a Python function that takes in two lists and compares their elements
+17455,Compose a regular expression in Python to find words beginning with a certain letter.
+9090,"Create a TopicItem object with the given parameters: logger, seuid, first_message, and parent. The TopicItem represents a specific topic which contains many connections and has attributes like the number of sent messages. It has methods to get the child at a specific position, get the number of children, get all children, get the latest data, get detailed data, get plotable items, get short data, and get time items. It also has a timer that aggregates the topic every TOPIC_AGGREGATION_FREQUENCY nsecs and pushes the updated data to self.__calculated_data."
+9748,Debug a Python function that swaps the values of two variables.
+3751,Generate a function to check for palindrome strings in Python.
+13192,Construct a Python program to remove duplicate values from a list.
+16534,Write a function in Python for finding the maximum subarray sum of an array.
+10345,Create a Python program to find the two smallest integers in an array and print the output.
+15518,Create a Python program to generate the nth number in the Fibonacci series.
+4783,"Given the following JSON input, write a Python program to calculate the average age of all the users."
+14978,Create a cloud-based web service in Python that takes a JSON input and returns the data ready for visualization.
+10644,Create a basic chatbot in Python using the Chatterbot library. The chatbot should converse with the user and should be able to respond based on inputs.
+9313,"Design a Python program to detect the sentiment (i.e. positive, negative, or neutral) of a given sentence."
+17352,Design a data structure in Python for a deck of cards.
+1701,Develop a Python program that accepts a list of numbers and prints the 2nd largest and the 3rd smallest elements from the list.
+5210,Create a Python program which sorts elements of an array in ascending order.
+11541,Write a Python program to find the longest increasing subsequence of a given sequence.
+16127,"Update the below Python code to the dynamic programming approach, for finding a maximum subarray of elements, given in an array."
+9837,Create classes and objects in python to represent a shape and its properties.
+1970,Write a function in Python to convert a string of text into separate words in a list.
+9550,Write a Python program to print the elements of a list from the last to the first.
+7326,Create a function in Python to perform a linear search on a list of numbers.
+9787,Generate a Python function to check whether a given list contains a given integer.
+6045,Generate a Python Class which takes one input 'name' and has two methods 'showName' and 'hideName'.
+17262,Generate a Python program that finds the most frequent element in a list and returns a dictionary containing the element and the number of occurrences.
+3417,Generate a random 10-letter string using Python
+1276,Create a natural language processing (NLP) program in Python to classify words into five categories
+4603,Create a Python program to print a given string with each character's ASCII code.
+15583,Write a Python script to classify an email as spam or ham.
+3491,Implement a Python function that takes a list of numbers as an input and counts the number of odd numbers in the list.
+14278,Generate Python code for a simple quiz application that displays a multiple-choice question and allows the user to select one of the choices as an answer.
+11980,Design a recursive algorithm in Python to print the first n numbers of the Fibonacci sequence.
+6767,Create a python code to find the fastest path from a given source node to target node
+4888,Design a Python program to print out the nth triangle number.
+15496,Generate a code snippet to get an item stored in a Python dictionary using the key.
+17996,"Create a Python module for a spiral matrix with the following functions: createSpiralMatrix, printSpiralMatrix, and transposeSpiralMatrix."
+14963,Create a Python web scraping project that scrapes prices from Amazon for a given list of items.
+15532,"Design a Python function for determining if a) two strings are anagrams of each other, or b) if two strings are permutations of each other?"
+6887,Create an optimization algorithm in Python to calculate the minimum distance between two points.
+12697,Create a function in Python that returns the unique elements in a given array.
+7808,Edit the following Python code to calculate the average of an array of numbers.
+18436,Convert the following Python script to Java.
+10115,Create a Python program to print out all the combination of a given set of numbers.
+6469,Develop a program in Python that generates the Fibonacci Series.
+11177,Generate all permutations of a given list of numbers with Python.
+18527,Create a Python algorithm to predict the house prices using the given dataset.
+8792,"Generate a Python script for analyzing a given dataset. The script should output the number of rows and columns, the data type of each column, the average of all numeric columns, and the count of unique values present in the dataset."
+3620,Generate a Python program to search an element in an array.
+6503,Implement a 'boggle_checker' function in Python 3 that takes in a 4x4 board and returns a list of all words present on the board.
+743,Write a Python program to create a dataframe from a given dictionary of lists.
+1576,Generate a python program to remove duplicate elements in a given list.
+1172,Create a K-Nearest Neighbors classifier model in Python for predicting the sale price of a used car.
+10797,Create a machine learning model in Python that can classify a sentence as part of a conversation or not.
+4478,Create a Python program to calculate the total of integers within a given range.
+8302,Write a Python program that uses the Beautiful Soup library to scrape a list of product names and prices from an e-commerce website.
+1465,"Develop a program in Python that generates random passwords with characters, numbers, and special characters."
+13005,"Create an AI model in Python that can classify text into 3 classes: positive, negative or neutral."
+16800,Generate a python program to print a Roman Numeral for any number between 1 and 5.
+4253,Create a function to convert JSON objects to Python dictionaries.
+1652,"Write a Python program to generate a n -by- n matrix of ones and zeros, with the ones in the diagonal and the rest set to zero."
+2663,Create an algorithm in Python to sort an array of numbers.
+13429,Develop a solution in Python for combining two sorted arrays into a third sorted array.
+68,Create a program for solving a quadratic equation in Python.
+13706,Create a Python program to check if a given sentence is a pangram or not. A pangram is a sentence that contains all the letters of the alphabet at least once.
+15237,Write a  code in Python to create and display a linked list.
+1232,Create a function in Python to remove all non-alphanumeric characters in a string.
+8558,Write a Python program to scrape data from a website and store it in a database. The program should use the Requests library and should be composed of multiple functions.
+18187,Design a Python program to count the number of hops that a knight can make from a given square on a chessboard in a single move.
+7938,Create a python program that prints out the powers of two.
+11457,"Generate a python script to print a multiplication table for an integer number, given as an argument."
+7998,Create a data structure to store and print all the codes for the top 10 programming languages.
+6755,Generate a Python program that accepts an integer as an input and then outputs a string composed of stars
+3776,Create a Python program to generate a random forest model for the given dataset.
+11823,Design a decision tree classifier in Python to distinguish between apples and oranges.
+3211,"To implement LDAP authentication in Django, add the given code to your project and add ""LdapBackend"" to the tuple AUTHENTICATION_BACKENDS in settings.py."
+17104,Convert the following equation into a Python program: y = x^2 - 3x + 2
+17647,"Create an HTTP API with Python Flask that saves data from a form submission. The form contains fields for name, email, and telephone."
+2873,Create a Python script to compare two sets of data and print the differences.
+2743,Create a Python program that takes a two dimensional array as an argument and returns the transpose of the matrix.
+11258,Write a Python program to check if a provided string is valid JSON.
+7462,Write a Python program to send an email to a group of people.
+14900,Come up with a python script to retrieve the last occurrence of an element in a list
+896,Create a Python program to edit a string and remove the vowels from it.
+6122,Create a Python class that identifies if a number is a multiple of five.
+6500,Develop a Python program to reverse an integer.
+4868,Write a Python program to compare two strings and return the longest common substrings.
+1778,Create a function in Python that returns the fibonacci series until the 10th index.
+17081,Write a Python program to classify an input text given a list of labels.
+1147,Write a code snippet in Python to create a Pandas Dataframe with three columns containing random numbers in the range 1-1000.
+5013,Implement a basic client-server network communication system with a protocol for exchanging messages between a client and a server using Python.
+11443,Optimize this program in Python to find the highest peak in a given array.
+3885,Write a Python program to parse a given string and extract the domain name.
+2482,Create a data pipeline in Python to transform raw data into a machine learning model.
+931,Construct a Python script to find the average of three numbers.
+5647,Create a minimum heap in python
+10772,Write a Python program to optimize a given set of equations using gradient descent.
+3738,Design a data structure in Python to store email messages and associated metadata.
+4716,Design a Python program to add two large numbers stored in an array.
+9704,Create a program in Python to delete all the elements from the list which have a value greater than a given number.
+14959,"Given a tensorflow model, write an optimization algorithm in Python to improve its accuracy."
+18102,Implement a search algorithm to quickly identify a specific character in a given string using Python.
+657,Write a Python code snippet that takes a list of numbers as argument and prints the average.
+17864,Write a Python function to find the maximum and minimum numbers from a given list.
+12948,Create a Python script for a sorting algorithm that can efficiently sort an array of integers.
+2114,Create a code snippet in Python that calculates the sum of the digits of a number.
+9700,Write a Python script to calculate the total marks by adding the marks of two subjects.
+3306,Write a recursive function in Python to compute the n-th Fibonacci number
+461,Create a Python program that takes a string and indicates whether it is a palindrome or not.
+16992,Write a code to figure out the most efficient way to navigate between two points in a two dimensional space in Python
+16935,Create a k-nearest-neighbour algorithm in Python to classify data points in two classes.
+17218,Develop a python program to print the hollow diamond pattern given size as argument.
+7356,Develop a Python program that prints out the nth Fibonacci number.
+17897,Create a web server in Python.
+15711,Implment a Python class to store data in a dictionary.
+17675,Create a Python program to search a web page for a given keyword and return a list of URLs.
+7014,Create a python program that uses API to get the list of upcoming movies and their release dates from a film API.
+391,"Suppose you want to build an autocomplete feature for a text editor, develop a Python program to generate a list of suggestions based on a given prefix."
+17013,Write a python program to find the maximum value in the given list of numbers.
+14124,Write a Python program to randomly shuffle a list of elements.
+17516,Create a web application in Python that displays a directory structure tree for a given path.
+8212,Create a function in Python to identify whether an input number is a prime or not.
+6136,Write a Python program to remove duplicates from a list of strings. The program should maintain the order of the strings in the list.
+18042,Explore the performance of a Python code using profiling.
+13358,Create a Python script to filter out elements in a list that are divisible by 3.
+16207,"Create a function in Python that takes in a string and a character, and returns the number of occurrances of the character in the string."
+8042,"Create a Python program that prints the numbers from 1 to 100 and prints ""Fizz"" if the number is divisible by 3 and ""Buzz"" if the number is divisible by 5 and ""FizzBuzz"" if the number is divisible by both 3 and 5."
+1546,Develop a Python program to test a condition
+10315,Design a Python program to determine if one string is a substring of another.
+3195,"Given the instruction and the sample data below, generate the corresponding Python program."
+12180,Write a Python script to generate a custom color palette.
+6730,Write a Python Program to create a list of all the words in a given string and its frequency.
+12216,Create a Python program to print out the first 20 numbers of the Fibonacci sequence.
+2233,"Optimize an existing Python algorithm to select the best points of distribution for a delivery service. The algorithm should take into account distance, demand, and availability."
+1868,Create a function in Python that takes two parameters: string and character. It should return the number of occurrences of the given character in the given string.
+6064,Implement a Python method to encrypt a given string.
+13105,Generate a web service in Python Flask to provide the weather data for a given date and region.
+7346,Create a for loop in Python that prints the numbers 1 to 10.
+5962,"Write a Python script to generate a random integer in the interval [0, 10)."
+13579,Create a shell script to run a Python program.
+15827,Generate a Python program for finding the most common element in a given list.
+6020,"This code is a Django migration that adds a new M2M table for the 'projects_relateds' field on the 'New' model and removes the old M2M table for the 'project' field. To apply this migration, run the 'python manage.py migrate' command."
+17203,Create a Python script to generate random numbers with using a certain range.
+17764,Create a neural network in Python to predict the probability of a person having a certain disease.
+17139,Write a Python program to optimize the following code snippet so that it runs faster
+5911,"Create a Python function that takes two lists as parameters, and returns the first list with each element doubled."
+9314,Create a program in Python that takes a positive integer of arbitrary size and checks if it is a prime number.
+13379,Generate a python program to minimize the difference of two given lists
+10189,"Using a machine learning library of your choice, write a program in Python to detect the sentiment of a sentence."
+2647,Change the following Python program such that you can pass any number of strings in the function.
+991,Design a class to convert Fahrenheit to Celsius in Python.
+11144,Create a class in Python that can be used to store the details of an employee.
+2160,Develop a Python program to edit a given string such that each word starts with its first letter capitalized.
+11877,"Create a function in Python that evaluates a given expression and returns the result. The function must be able to handle basic operations (e.g. +, -, /, *) and arbitrary number of input values."
+3144,Develop an algorithm in Python to find the minimum and maximum from an unsorted list of numbers.
+15171,Write a Python program that prints all unique pairs that sum up to a given number.
+10322,Design a Python function that takes a string and returns its length.
+9631,Suggest a code to generate the Fibonacci series in Python.
+13962,Write a Python code to calculate the root mean square error (RMSE) between two given lists of numbers.
+11367,Generate a Python program to return the sum of abs(x1 - x2) for each pair in an array.
+10388,Give an algorithm and implement it in Python to sort the following array
+14845,Generate a valid Python 3 cURL request to the OpenWeatherMap API for current weather information.
+13864,Optimize your code in Python so that it runs faster.
+14777,"Generate a Python program that reads input from the user, and divides the number by 5."
+7596,Translate this JavaScript code to Python.
+4726,Write a function to implement binary search in Python.
+18094,Create a Python script that takes in two lists as inputs and generates a list containing all possible pairings between elements from both lists.
+10052,"Given two numbers, find the greatest common divisor using Euclidean algorithm."
+14134,Estimate the performance overhead of a certain JavaScript operation compared to an operation in Python.
+12620,"In Python, develop a program to count the number vowels, consonants and words in a text."
+4462,Create a program to implement a basic calculator in Python. The program should accept two numbers as input and print the result of the selected operation.
+13423,Write a method in Python to print each element in a given dictionary.
+6798,Create a Python program that takes a sentence as an input and outputs all the words with their part of speech.
+8040,"This code performs library screening result analysis using the pycas package. To use it, run the script with the required arguments: input data file path, control experiment labels, treatment experiment labels, method to be used in the analysis, whether to consider barcodes, and the result output directory. The input data file should have columns named ""gene"", ""guide"", and ""barcode"". The control and treatment experiment labels should be separated by space and have the same length. The method should be either ""sunbird"" or ""mw"". The result will be saved in a csv file named ""pycas_analysis_sunbird.csv"" in the specified output directory or the current work directory if not specified."
+3500,Generate a function in Python that returns a random element from a given list.
+11216,Create a Python program to select high temperature days based on a given dataset.
+8861,Can you create a Python script to find the maximum element in the given array using divide and conquer algorithm?
+9309,Create a basic Python program that takes a sentence with multiple words as input and generates a list of tuples with the word and its frequency.
+17513,Create an AI model in Python to classify an email as either a business or personal one.
+8654,"Create a web scraper in Python that takes a URL as input and scrapes the page for information about the product that the page is selling. It should return the product name, price, and description as output."
+100,Read a given list of strings and create a new list of all strings that are longer than 5 characters long.
+15964,Create a question-answering system using Python and Natural Language Processing.
+17339,What is a list comprehension in Python?
+10530,"This code handles duplications in a given localizable file. To use it, run the script with the path to the localizable file as the first argument, and optionally specify a log file path with the --log_path flag. The script will omit duplicate keys and document the omission, then write the updated file back to disk."
+16617,Update a Python program which constructs a list of prime numbers using the Sieve of Eratosthenes algorithm. The program should improve its performance by using an efficient implementation of the algorithm.
+5512,Generate a Python program to create a game loop.
+11376,Implement a function in Python that takes a list of string and sorts them alphabetically.
+2133,Create a Python script to open a web page.
+15507,Implement a distributed system in Python that can incrementally process a large input stream of data.
+5277,Write a Python program to detect the most frequently used words in a given set of HTML documents.
+10537,Develop a Python function to calculate the area of an irregular polygon with three sides.
+3980,Calculate the number of possible permutations of a string using the following Python function.
+16290,"Given two strings A and B, construct a Python program to determine if B is a substring of A."
+854,"Create a command-line tool for voting on git commands. The tool should have the following sub-commands: ""vote"", ""list"", ""tally"", and ""elect"". The ""vote"" sub-command should allow a user to vote for a specific commit. The ""list"" sub-command should list all votes. The ""tally"" sub-command should tally all votes. The ""elect"" sub-command should elect a commit based on the number of votes. The tool should be implemented using Python and the Git command-line tool."
+4636,Convert this function from Python 2 to Python 3.
+14769,What is the best way to optimize a k-means clustering algorithm in Python?
+10109,Create a class in Python that represents a student with two instance variables and a constructor to assign values to those variables.
+11459,Design a class in Python to calculate the area of a circle.
+13642,Create a python program to delete all items from a dictionary.
+16035,Write a Python program to classify a given set of inputs into clusters using k-means algorithm
+15900,How can you improve the following python function to make it run more quickly?
+7330,"Create a Python class for bank accounts to support the following operations: deposit, withdrawal, and transfer money. The class should also support methods for viewing account balance."
+2067,Develop a Python program to find the shortest distance between two words in a sentence.
+17760,Can you write a Python program to take a list and create a new list with unique elements of the first list?
+11303,Generate a Python program which will convert the given binary number into its equivalent decimal number
+15191,"Create a Python function that computes the distance between two points (x1, y1) and (x2, y2)."
+2495,Create a python program to detect if a word is an isogram.
+5430,Generate an optimized Python code that computes the product of two numbers without using the multiplication operator.
+18382,Construct a python program to check if two given strings are anagrams.
+1484,Create a function in Python to return the media according to the following criteria:
+59,Write a Python script to read an array from the user and then determine the mean and median of the array.
+12219,Train a neural network in Python to classify text into two categories.
+12644,Generate a Python program that can take any type of input and return 'Valid' or 'Invalid'.
+6508,Write a Python function to recognize a date (in “DD/MM/YYYY” format) in a string
+12624,Create a python function to compare two strings and determine if one is an anagram of the other.
+17519,Design a basic Rock-Paper-Scissors game in Python.
+773,"Write code in Python to define a class to represent a linked list node. The class should have a data property, a pointer to the next node, and a 'add' method to append a node to the list."
+7421,Generate code to print the multiplication tables from 1 to 10 in Python.
+3774,Create a Python program to generate 4 random numbers from 0 - 9.
+15767,Create an algorithm in Python for searching for an element in an array.
+15579,Generate a python dictionary with all prime numbers between 10 and 30 as keys and their squares as values.
+11162,Generate a Python code snippet to search for a specific value in a 2D list and return its index.
+958,Make an algorithm in Python for printing the maximum frequency of an element in an array.
+6003,Create a function in Python to convert a given list of strings to integers.
+9907,Create a Python script to remove redundant characters in a given string.
+13830,Categorize the following code snippets into their respective languages:
+3616,Develop a function to generate a random string using Python.
+9378,Generate a code snippet in Python to reverse the order of a list.
+5133,Write a Python program to print out the even numbers in the given list.
+5370,"Given two number arrays A and B, write a Python function to check if each element in A also exists in B"
+1616,Generate a list comprehension in Python for the following operation.
+5477,Generate a program to search for a given pattern in a string.
+8578,Generate an array of random integers between 10-20 with a length of 50 using Python.
+11116,Create a Python program to search through a given dictionary and output the values of given keys.
+9070,Create a web scraper in Python using the BeautifulSoup library. The scraper should be able to extract data from a given website in HTML format.
+16237,Generate code to generate a linear regression model in Python.
+546,Create a Python program to remove all occurrences of the given element in a given array.
+2984,"Write a Python program that takes a list of strings as input, sorts it alphabetically, and output the sorted list."
+1378,Write a function in Python to extract domain name from given URLs.
+6779,Generate a machine learning algorithm in Python for recognizing hand-written digits from the MNIST dataset.
+6036,Write a Python program to optimize a list of numbers such that each value is equal to the mean of its neighboring values.
+15058,Develop an AI-driven chatbot in Python that can answer basic questions about a sporting event.
+13085,Design a Python program which takes two lists and returns their intersection.
+8192,Generate a Python program that translates a sentence into pig latin
+5554,"Create a Python script that takes a string of comma-separated temperatures and returns a minimum, maximum, and median value."
+8495,Create a function in Python to find the prime numbers up to a given integer n.
+12118,Create a Python program to search a given list of strings to find any matches to a given substring.
+9208,Construct an algorithm in Python to sort an array of integer in ascending order using the insertion sort method.
+18158,Combine the given lists in Python and sort the result in ascending order.
+16182,Design a program in Python to check if a given number is a palindrome
+16811,Implement an algorithm to find a substring in a given string using a greedy approach in Python.
+12569,Generate a Python program that takes a numeric input and reverses it.
+8232,Write an algorithm in Python to merge two sorted lists into one.
+8611,Develop a function in Python to generate a random number between 1 and 10.
+16919,Write an algorithm in Python to detect the monotonic increasing pattern in a given array.
+15192,"This code updates a game server cluster in Google Cloud Game Servers. To use it, run the script `update_cluster.py` with the following arguments: `--project-id` (your cloud project ID), `--location` (your realm location), `--realm-id` (your realm ID), and `--cluster-id` (your game server cluster ID). The script will update the specified cluster by changing the labels associated with it."
+14754,How could you remove duplicates from a list in Python?
+2335,Create a Python class for a binary tree.
+7797,"Finish a Python program to select all employees with a salary greater than 10,000."
+2483,Write a Python program that can generate random passwords of a given length and complexity.
+16228,Write an algorithm in Python to find the maximum and minimum elements in a given array of integers.
+9429,Develop a program in Python for counting the occurrences of a given character in a string.
+7005,Edit the given python program to display the sum of all even numbers in the given list.
+12290,Rewrite a given Java class using Python syntax.
+9698,Generate a Python 3 program to find out the highest common factor of two numbers.
+12308,Is it possible to create a function in Python that takes a string as an argument and returns its length?
+5356,Create a logic gate simulation using a Python program
+13955,Write a Python program to create a dictionary with numbers from 0 to 4 as keys and corresponding values as given below.
+18000,Generate a Python regular expression that can identify valid email addresses.
+7364,Create a payment processing system written in Python using the Stripe API.
+17824,Write a python code that searches for a specified value in a given 2-dimensional array.
+16513,Design a Python program to find which number is missing between a given range of numbers.
+7674,Design a function in Python to classify an input into positive or negative.
+14696,Write a Python script that prints the numbers 1 to 10 and their squares.
+9807,Can you write a Python script to perform a Linear Search on a list of numbers?
+13566,Improve the Python method provided so that it checks whether the given array is a palindrome or not.
+17697,Write a data structure class in Python to store an array of characters.
+18039,Develop a Python program to calculate the total area of a group of rectangles.
+13486,Write a Python program to create a dictionary from two lists where the first list contains keys and the second list contains values.
+1595,Write a python program to implement Merge Sort
+15467,Suggest an approach to solve a Sudoku using Python.
+16428,Write a Python program that implements a generic sorting algorithm. The program should accept a list as an input and generate a sorted list as an output.
+8127,Create a Python program that converts a given Fahrenheit temperature into Celsius.
+14626,Generate a Python script that extracts text from a given PDF and converts it to CSV.
+212,Write a Python script that filters a list of integers and returns only even numbers.
+5673,Create a Python program to sort a list of strings by the descending length of the strings and alphabetically in case of ties.
+6248,Write a Python program that counts the number of even and odd numbers in a list.
+15624,Create an optimization algorithm in Python that takes an array of numbers as input. The algorithm should return the sum of the maximum two elements.
+9726,Create an interactive Slack bot in Python to find the latest news article about a given topic from the web.
+3766,Generate a function to find the sum of an element in a nested list in Python.
+7866,Analyze the given python code and suggest any possible optimizations.
+12212,Write a Python function to find the sum of a series of numbers.
+15186,Make a Python program that takes two strings as an input and checks if the strings are anagrams.
+1993,Construct a Python function to redesign a given list to meet a given sorting criteria.
+6931,Write a Python script to implement the bubble sort algorithm.
+6693,Write a python script to compare two directories and output the differences.
+5577,Create an algorithm in Python to print a pattern consisting of '*' and '#' characters.
+1230,Write a Python program to read a CSV and converting the contents to a dictionary.
+15291,Write a Python function for reversing a string and identify the time and space complexity.
+6882,Rewrite the existing code to edit the contents of an existing Python dictionary.
+15182,Develop an AI agent in Python using Pytorch to play a game of Connect Four.
+14181,Write a loop in Python for printing ‘Hello World’ 10 times
+17274,Write a Python program to classify the given words as valid or invalid.
+9149,Write a function in Python that takes a list of numbers and returns the sum of the list items that are greater than the given value.
+10174,Write a Python program to extract the Last Name from a given full name.
+5473,"Define a class in Python that creates a person object with the name, age, and gender."
+1699,Transform the following Python function into a list comprehension.
+17678,Write a web socket server in Python that publishes new events with an associated user id.
+6754,Write a Python program to identify the number of times a given number appears in a list.
+16550,Create a Python program which performs basic math operations on user input numbers and prints the result.
+18484,Design a code optimization program for Python programs.
+10480,Design an algorithm to find the missing number from an array of numbers using Python.
+1129,Create a function in Python to check if a number is greater than a given threshold.
+13624,Create an algorithm in Python to generate a random string of length n using only alphanumeric symbols.
+5852,"Create a program in any language that outputs all the prime numbers between 1 and a given number (say, n)."
+11578,Generate a Python script that stores the numbers 0 to 10 in an array.
+9409,Modify the following Python code to detect and remove punctuation from a given string.
+8202,Build an artificial neural network in Python to predict the price of a house
+4555,Find a Python library to create a connection to a MongoDB database and import the data.
+4213,Refactor a code snippet in Python that implements a quicksort algorithm.
+7787,Design a function in Python to sort a list of numbers in increasing order using a recursive insertion sort algorithm.
+15112,Design a python code for validating an email address.
+12088,Generate a rotating cube in Python using OpenGL.
+2538,Generate a python program to convert a given string of mathematical expression from infix notation to postfix notation.
+16329,Develop an AI prediction model for a given dataset in Python.
+5433,List the IPsec status using the Vici interface.
+1520,Develop a neural network model in Python to recognize a hand-written number.
+7279,"Build a classifier in Python using a scikit-learn that can predict a person's gender based on the data of the height, weight, and age."
+8823,Create a program in Python which takes a string and finds the number of each English vowels.
+15096,Create a class in Python that takes two parameters and prints them as strings.
+16652,Generate a Python code to print the symmetric differences between two sets.
+10619,Build a Python script that makes automated requests to an online dictionary API and prints out the definition of a given word.
+10726,Optimize a Python program for calculating the sum of the first N numbers.
+15051,Create a code snippet in Python to sort the following array in ascending order.
+4021,Create a Python program to find the longest consecutive sequence of integers in an unsorted array.
+8562,Create a neural network model in Python to classify movie reviews into positive and negative categories.
+5947,Write a Python program that sorts a given array of numbers in ascending order.
+15389,Create a Python function to check whether a number is divisible by another number or not.
+7693,Write a Python program that can accept an arbitrary number of parameters and print them all out together.
+9456,"Using Python, write a program to find the most common element among a list of numbers"
+1783,Create a program in python to count the occurences of a given word in a sentence.
+16635,Write a Python program to optimize the given linear objective function using the Simplex algorithm.
+15943,Create an algorithm in Python to find the longest increasing subsequence from a given set of numbers.
+1334,Create a python function that is able to parse a input string and extract all words that have at least 4 characters.
+7161,Create a function in Python that will convert a given string of text into its equivalent URL-safe slug format.
+6343,Create an API in Python that takes in an integer as an input parameter and returns whether the number is prime or not.
+16278,Generate a Python function to convert a given time in 24-hour format to 12-hour AM/PM format.
+14625,Develop a script in Python to find all numbers in a given string.
+15447,Create a Python program to identify most frequent value
+756,Create a Google Cloud Function in Python to parse an incoming JSON object and extract its values
+14509,"using the following Json as an example, write a Python program that reads this Json into an object."
+4088,Write a Python program to calculate the sum of the squares of all numbers from 0 to 10.
+14019,Design a class in Python that takes two numbers as parameters and returns a multiplication of them.
+15691,Develop a custom classifier in Python to detect malicious URLs.
+4326,Design a Python function to replace all occurrences of ‘x’ in a string with ‘y’.
+17018,Construct a program in Python which reverses each word of a given sentence.
+8320,"Generate a function in Python that takes a list of strings as an argument and then returns an output list that consists of the strings. Each item in the output list should be in the same order as in the argument list, but with all the vowels replaced by an underscore character '_'."
+4226,"Create a REST API in Python that implements a To-Do list application. The API should include endpoints for adding, editing, and deleting To-Do list items."
+10608,Optimize a given Python function to make it more efficient.
+5348,You need to optimize a given Python code for improving speed.
+12198,Develop a program using Python and TensorFlow to perform sentiment analysis of a given text.
+11352,"This code is a test for the GIRepository module. To run the test, execute the script. The test checks various aspects of the module, such as argument info, base info, object info, interface info, struct info, enum info, union info, type info, field info, property info, callable info, method info, vfunc info, flags double registration error, enum double registration error, introspected argument info, and more. The test should pass without any errors or failures."
+6839,Create a function in Python that takes four parameters and returns the highest value.
+2677,Write a Python program to print the count of all even numbers in the given list.
+17046,Write a python program to sort a list of dictionaries based on a particular key.
+8276,Generate a Python program to train a model to predict the number of accidents that happened in a city given the population size and budget of the city.
+1892,Create a Python script that connects to a database and displays a list of table information for an SQL database.
+17272,Construct a Python dictionary based on the following data
+7538,Optimize the following Python code to minimize memory consumption and maximize speed.
+13414,Edit the existing Python program so that it rounds a number to the nearest whole number.
+2868,Create a Machine Learning model in Python that uses a Logistic Regression algorithm to predict the outcome of a given input.
+13724,Create a Python script to parse a sentence and check if it is grammatically correct.
+4836,Create a Python program to extract the email and phone numbers within a given string.
+17963,Develop a Python program to generate random sentences from a given grammar.
