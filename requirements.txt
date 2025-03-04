@@ -5,5 +5,5 @@ transformers
 umap-learn[parametric_umap]
 seaborn
 tf-keras==2.18.0
-sklearn
+scikit-learn
 datasets
